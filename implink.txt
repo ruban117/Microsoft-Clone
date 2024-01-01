@@ -1,0 +1,19 @@
+https://web.archive.org/web/20231222070845/https://www.microsoft.com/en-us/
+
+<div class="sale my-4 px-[3rem]">
+                <button class="bg-[#6b0e34] text-left font-bold text-white py-1 px-1">Countdown Sale</button>
+                <h1 class="text-left text-lg font-medium">Save Upto $500 on Surface Pro 9</h1>
+                <p class="my-3">Don’t delay—save now on the tablet flexibility you want and the laptop performance you need, all in one ultra-portable device. Offer ends 12/24.</p>
+                <p class=""></p>
+            </div>
+
+
+            What's new
+Company
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Security
+Sustainability
